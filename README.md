@@ -7,11 +7,28 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 👉 Zapraszam do zapoznania się z moim portfolio ⬇️ i zachęcam do kontaktu. 📱📧 Mierzę wysoko ⬆ i lubię wyzwania, dlatego z niecierpliwością czekam na ciekawe projekty. 😊🔥
 
 
-#  Spis treści
+##  Spis treści
 
-*Informacje ogólne* 
+* [Informacje ogólne](#informacje-ogolne)
+* [Technologie](#technologie)
+* [Setup](#setup)
+* [More detailed information about modules](#more-detailed-information-about-modules)
+* [Application view](#application-view)
+
+
+
+### Informacje ogólne
 <details>
-<summary>Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b></summary>
+<summary>Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
 <b>Lorem ipsum</b>. Projekt..... ipsumLorem ipsumLorem ipsumLorem ipsumLorem
 ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
 </details>
+
+
+
+### Technologie
+<ul>
+<li>1.</li>
+<li>2.</li>
+<li>3.</li>
+</ul>
