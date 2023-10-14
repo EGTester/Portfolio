@@ -49,7 +49,7 @@ Install NPM packages ```npm install```<br/>
 Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 
 
-## Kursy,warsztaty,webinary 🎓
+## Kursy warsztaty webinary 🎓
 
 
 
