@@ -42,11 +42,11 @@ Komendy w tym znaczniku zostaną podświetlone i sformatowane
 
 
 ## Setup
-Get a free API Key at https://example.com <br/>
-Clone the repo
+Uzyskaj bezpłatny klucz API na stronie https://example.com <br/>
+Sklonuj repozytorium
 ```git clone https://github.com/your_username_/Project-Name.git```
-Install NPM packages ```npm install```<br/>
-Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
+<br>Zainstaluj NPM packages ```npm install```<br/>
+Wprowadź swój interfejs API w config.js ```const API_KEY = 'Wprowadź swoje API';```
 
 ## More detailed information about modules
 
