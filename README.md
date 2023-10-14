@@ -1,9 +1,10 @@
-<h1 align="center">PORTFOLIO </h1> 
-
-<p align="center"> ⭐⭐⭐🚀
 <h1 align="center"> 
+  
+![image](https://github.com/TesterkaEG/Portfolio/assets/144365299/609eecc8-a4c8-4578-b304-8f546a934416) 
 
-![image](https://github.com/TesterkaEG/Portfolio/assets/144365299/609eecc8-a4c8-4578-b304-8f546a934416) </h1> <p align="center">
+</h1> <p align="center">  </h1> 
+
+# PORTFOLIO ⭐⭐⭐🚀
 
 ## Ewa Gwóźdź, czyli przyszła testerka manualna 👩‍💻🕵🏼‍♀️ 
 
