@@ -17,8 +17,8 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 * [Projekt DareIT](#projekt-dareit-)
 * [Technologie](#technologie)
-* [More](#more)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
+* [Kompetencje miękkie](#kompetencje-miekkie)
 * [Kontakt](#kontakt-)
 
 
@@ -48,7 +48,7 @@ Czego nauczyłam się podczas wyzwania?
 - Trello
 - Oracle Sql Developer
 - Xampp
-- Postman
+- Postman (REST API)
 - Slack
 - PicPick
 - ShareX 15.0
@@ -60,6 +60,9 @@ Czego nauczyłam się podczas wyzwania?
 2. Indywidualny kurs testowania manulanego 
 3. [Grupowe warsztaty z prowadzącym w roli klienta](https://szkoleniedlaqa.pl/)
 5. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
+
+## Kompetencje miękkie
+ss
 
 ## Kontakt 📫
 ```ewa_gwozdz@interia.eu```
