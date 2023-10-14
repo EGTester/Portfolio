@@ -10,13 +10,12 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 ##  Spis treści 📌
 
 * [Projekt_DareIT](#projekt-dareit)
-* [Kontakt](#kontakt)
 * [Technologie](#technologie)
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
 * [Application view](#application-view)
 * [More](#more)
-* [Kursy_warsztaty_webinary](#kursy-warsztaty-webinary)
+* [Kursy warsztaty webinary](#kursy-warsztaty-webinary)
 * [Kontakt](#kontakt)
 
 
