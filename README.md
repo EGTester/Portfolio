@@ -15,7 +15,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
 * [Application view](#application-view)
-* [More](https://github.com/TesterkaEG/Portfolio/main/README.md?search=1#more)
+* [More](https://github.com/TesterkaEG/Portfolio/main/README/#more)
 
 
 
