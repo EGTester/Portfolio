@@ -21,7 +21,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 
 
-### Projekt
+### Projekt DareIT
 <details>
 <summary>Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
 <b>Lorem ipsum</b>. Projekt..... ipsumLorem ipsumLorem ipsumLorem ipsumLorem
