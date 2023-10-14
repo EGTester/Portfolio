@@ -45,7 +45,7 @@ Czego nauczyłam się podczas wyzwania?
 2. [*Mamo Pracuj w IT*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)🛠
 
 
- ## Technologie ⚙️
+ ## Technologie ⚙
 
 - [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
 - [Asana](https://asana.com/pl) - narzędzie do zarządzania projektami. 
