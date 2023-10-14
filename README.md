@@ -4,7 +4,7 @@
 
 </h1> <p align="center">  </h1> 
 
-# PORTFOLIO ⭐⭐⭐🚀
+# PORTFOLIO ⭐⭐⭐🚀  
 
 ## Ewa Gwóźdź, czyli przyszła testerka manualna 👩‍💻🕵🏼‍♀️ 
 
@@ -78,4 +78,6 @@ Wprowadź swój interfejs API w config.js ```const API_KEY = 'Wprowadź swoje AP
 </ol>
 
 ## Kontakt 📫
-ewa_gwozdz@interia.eu
+```ewa_gwozdz@interia.eu```
+
+
