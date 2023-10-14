@@ -4,13 +4,13 @@
 
 </h1> <p align="center">  </h1> 
 
-# PORTFOLIO ⭐⭐⭐🚀  
+# PORTFOLIO ⭐⭐⭐🚀 
 
 ## Ewa Gwóźdź, czyli przyszła testerka manualna 👩‍💻🕵🏼‍♀️ 
 
 Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że czas na zmiany. 🎉 Otwartość na zdobywanie wiedzy i gotowość na nowe wyzwania to niewątpliwie moje atuty. Aspiruję na stanowisko **testerki manualnej**, ponieważ jestem pewna, że w tym obszarze będę miała możliwość ciągłego samorozwoju oraz wykorzystywania mojego talentu do znajdowania defektów, np. literówek. ❌🔍 Uważam, że to najlepsza okazja, aby wykorzystać moją kreatywność w poszukiwaniu nowych rozwiązań. Dzięki mojemu zróżnicowanemu doświadczeniu mam wysoko rozwinięte umiejętności interpersonalne i empatię, które pomagają mi dostrzec szerszą perspektywę i dobrze funkcjonować w zespole.
 
-👉 Zapraszam do zapoznania się z moim portfolio ⬇️ i zachęcam do kontaktu. 📱📧 Mierzę wysoko ⬆ i lubię wyzwania 🔥, dlatego z niecierpliwością czekam na ciekawe **projekty/oferty pracy**. 🙂💼
+👉 Zapraszam do zapoznania się z moim portfolio ⬇️ i zachęcam do kontaktu. 📱📧 Mierzę wysoko ⬆💡 i lubię wyzwania 🔥, dlatego z niecierpliwością czekam na ciekawe **projekty/oferty pracy**. 🙂💼
 
 
 ##  Spis treści 📌
@@ -39,19 +39,19 @@ Czego nauczyłam się podczas wyzwania?
 <br>✔️ SQL 
 </details>
 
+🛠
 
+### Technologie ⚙️
 
-### Technologie 💡
-
-- Jira
-- Asana
-- Trello
-- Oracle Sql Developer
-- Xampp
-- Postman (REST API)
-- Slack
-- PicPick
-- ShareX 15.0
+- [Jira] - wykorzystywana do tworzenia raportu błędów.
+- [Asana] - 
+- [Trello] - 
+- [Oracle Sql Developer] - 
+- [Xampp] - 
+- [Postman](https://www.postman.com/) - narzędzie służące do testowania i dokumentowania REST API. 
+- [Slack](https://slack.com/solutions/engineering) - rozbudowany komunikator internetowy wykorzystywany do komunikacji z zespołem.
+- [PicPick] - narzędzie do przechwytywania ekranu z wbudowanym edytorem obrazów.
+- [ShareX 15.0] - aplikacja mobilna do nagrywania ekranu.
 
 
 ## Kursy warsztaty webinary 🎓
@@ -62,9 +62,10 @@ Czego nauczyłam się podczas wyzwania?
 4. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
 
 ## Kompetencje miękkie ✨
-ss
+
 
 ## Kontakt 📫
 ```ewa_gwozdz@interia.eu```
 
+![typingcat](https://github.com/TesterkaEG/Portfolio/assets/144365299/8845473e-180a-4948-99ac-a5d3d31208e3)
 
