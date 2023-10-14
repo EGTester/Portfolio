@@ -1,4 +1,4 @@
-# <br>**PORTFOLIO** ⭐⭐⭐
+# <br>**PORTFOLIO** ⭐⭐⭐🚀
 
 ## Ewa Gwóźdź, czyli przyszła testerka manualna 👩‍💻🕵🏼‍♀️ 
 
@@ -16,6 +16,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [More detailed information about modules](#more-detailed-information-about-modules)
 * [Application view](#application-view)
 * [More](#more)
+* [Kursy,warsztaty,webinary](#kursy-warsztaty-webinary)
 
 
 
@@ -48,11 +49,11 @@ Install NPM packages ```npm install```<br/>
 Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 
 
-
-
-## Kontakt
+## Kursy,warsztaty,webinary 🎓
 
 
 
 ## More
 
+
+## Kontakt 📫
