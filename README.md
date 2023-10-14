@@ -9,7 +9,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 ##  Spis treści 📌
 
-* [Projekt_DareIT](#projekt)
+* [Projekt_DareIT](#projekt-dareit)
 * [Kontakt](#kontakt)
 * [Technologie](#technologie)
 * [Setup](#setup)
