@@ -40,6 +40,7 @@ Czego nauczyłam się podczas wyzwania?
 </details>
 
 
+
 ### Technologie
 <ul>
 <li>1.xyz </li>
