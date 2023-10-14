@@ -44,6 +44,7 @@ Czego nauczyłam się podczas wyzwania?
 
 2. [*Mamo Pracuj w IT*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)🛠
 
+
 ## Technologie ⚙️
 
 - [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
@@ -64,6 +65,7 @@ Czego nauczyłam się podczas wyzwania?
 3. [Grupowe warsztaty z prowadzącym w roli klienta](https://szkoleniedlaqa.pl/)
 4. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
 5. [Mamo Pracuj w IT](https://mamopracuj.pl/mamo-pracuj-w-it/)
+
 
 ## Kompetencje miękkie ✨
 
