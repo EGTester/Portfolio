@@ -68,6 +68,7 @@ Czego nauczyłam się podczas wyzwania?
 
 
 ## Kompetencje miękkie✨
+
 🔎 Dokładność, zorientowanie na szczegóły 
 <br> 🤝 Komunikatywność, umiejętność pracy w zespole
 <br> ✅ Dobra organizacja pracy
