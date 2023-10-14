@@ -18,7 +18,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Projekt DareIT](#projekt-dareit-)
 * [Technologie](#technologie)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
-* [Kompetencje miękkie](#kompetencje-miekkie)
+* [Kompetencje miękkie](#kompetencje-miekkie-)
 * [Kontakt](#kontakt-)
 
 
@@ -56,12 +56,12 @@ Czego nauczyłam się podczas wyzwania?
 
 ## Kursy warsztaty webinary 🎓
 
-1. [DareIT Challenges](https://www.dareit.io/challenges/qa-manual-testing)
-2. Indywidualny kurs testowania manulanego 
+1. Indywidualny kurs testowania manulanego
+2. [DareIT Challenges](https://www.dareit.io/challenges/qa-manual-testing)
 3. [Grupowe warsztaty z prowadzącym w roli klienta](https://szkoleniedlaqa.pl/)
-5. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
+4. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
 
-## Kompetencje miękkie
+## Kompetencje miękkie 💡
 ss
 
 ## Kontakt 📫
