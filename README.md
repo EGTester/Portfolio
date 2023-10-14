@@ -43,18 +43,21 @@ Czego nauczyłam się podczas wyzwania?
 
 ### Technologie
 
-- 
-- 
-- 
-- 
-- 
-- 
-
+- Jira
+- Asana
+- Trello
+- Oracle Sql Developer
+- Xampp
+- Postman
+- Slack
+- PicPick
+- ShareX 15.0
 
 
 ## Kursy warsztaty webinary 🎓
+
 <ul>
-<li>1.xyz </li>
+<li>1.DreIT Challenges </li>
 <li>2.</li>
 <li>3.</li>
 </ul>
