@@ -67,6 +67,10 @@ Czego nauczyłam się podczas wyzwania?
 
 ## Kompetencje miękkie ✨
 
+*dokładność, zorientowanie na szczegóły
+*komunikatywność, umiejętność pracy w zespole
+*dobra organizacja pracy 
+*chęć rozwoju, determinacja
 
 ## Kontakt 📫
 ```ewa_gwozdz@interia.eu```
