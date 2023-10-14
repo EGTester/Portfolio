@@ -46,8 +46,6 @@ Czego nauczyłam się podczas wyzwania?
 
 
 ## Technologie ⚙️
-
- 
 - [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
 - [Asana](https://asana.com/pl) - 
 - [Trello](https://trello.com/pl) - 
