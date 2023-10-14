@@ -23,7 +23,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Kontakt](#kontakt-)
 
 
-### Projekty 📑
+## Projekty 📑
 
 1. [*DareIT*](https://drive.google.com/drive/folders/1BkzQya08W05i_sgWLteUv_aPaJQdK-Up?usp=drive_link) 💎
 
@@ -44,7 +44,7 @@ Czego nauczyłam się podczas wyzwania?
 
 2. [*Mamo Pracuj w IT*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)🛠
 
-### Technologie ⚙️
+## Technologie ⚙️
 
 - [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
 - [Asana](https://asana.com/pl) - 
