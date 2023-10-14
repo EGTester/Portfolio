@@ -15,7 +15,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [More detailed information about modules](#more-detailed-information-about-modules)
 * [Application view](#application-view)
 * [More](#more)
-* [Kursy warsztaty webinary](#kursy-warsztaty-webinary)
+* [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
 * [Kontakt](#kontakt)
 
 
