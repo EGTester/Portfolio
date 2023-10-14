@@ -48,9 +48,7 @@ Czego nauczyłam się podczas wyzwania?
 </ul>
 
 
-
 ## Kursy warsztaty webinary 🎓
-
 
 
 ## More
