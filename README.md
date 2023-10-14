@@ -55,5 +55,5 @@ Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 
 ## More
 
-📫
-## Kontakt 
+
+## Kontakt 📫 
