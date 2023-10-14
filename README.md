@@ -19,7 +19,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Projekty](#projekty-)
 * [Technologie](#technologie-)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
-* [Kompetencje miękkie](#kompetencje-miekkie-)
+* [Kompetencje](#kompetencje-)
 * [Kontakt](#kontakt-)
 
 
@@ -67,7 +67,7 @@ Czego nauczyłam się podczas wyzwania?
 5. [Mamo Pracuj w IT](https://mamopracuj.pl/mamo-pracuj-w-it/)
 
 
-## Kompetencje miękkie ✨
+## Kompetencje ✨
 
 🔎 Dokładność, zorientowanie na szczegóły 
 <br> 🤝 Komunikatywność, umiejętność pracy w zespole
