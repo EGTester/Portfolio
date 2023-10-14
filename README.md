@@ -19,7 +19,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Projekty](#projekty-)
 * [Technologie](#technologie-)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
-* [Kompetencje miękkie](#kompetencje-miekkie-)
+* [Kompetencje-miękkie](#kompetencje-miekkie-)
 * [Kontakt](#kontakt-)
 
 
@@ -46,8 +46,6 @@ Czego nauczyłam się podczas wyzwania?
 
 
 ## Technologie ⚙️
-
-## Technologies
 
 <ul>
 <li> [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.</li>
