@@ -37,7 +37,7 @@ Czego nauczyłam się podczas wyzwania?
 <br>✔️ Testowania aplikacji webowych i mobilnych 
 <br>✔️ Testowania eksploracyjnego
 <br>✔️ Redagowania przypadków testowych
-<br>✔️ Raportowania błędów z użyciem Jiry
+<br>✔️ Raportowania błędów z użyciem [Jiry](https://tiny.pl/c1f8n)
 <br>✔️ Tworzenia raportów z testów 
 <br>✔️ SQL 
 </details>
