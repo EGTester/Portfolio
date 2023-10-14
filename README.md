@@ -15,6 +15,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
 * [Application view](#application-view)
+* [More](https://github.com/TesterkaEG/Portfolio/edit/main/README.md/#more)
 
 
 
@@ -50,3 +51,8 @@ Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 
 
 ## Kontakt
+
+
+
+## More
+
