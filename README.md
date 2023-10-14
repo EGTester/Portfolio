@@ -2,6 +2,8 @@
 
 <p align="center"> ⭐⭐⭐🚀
 
+![3b](https://github.com/TesterkaEG/Portfolio/assets/144365299/cd7ac3f3-548f-429f-a73f-781882590293)
+
   
 ## Ewa Gwóźdź, czyli przyszła testerka manualna 👩‍💻🕵🏼‍♀️ 
 
@@ -23,7 +25,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 
 
-### Projekt DareIT
+### Projekt DareIT 💎
 <details>
 <summary>Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
 <b> <br>Czym jest wyzwanie Dare IT Challenges?</b> 
@@ -68,5 +70,10 @@ Wprowadź swój interfejs API w config.js ```const API_KEY = 'Wprowadź swoje AP
 
 ## More
 
+<ol>
+<li>Czerwony</li>
+<li>Zielony</li>
+<li>Niebieski</li>
+</ol>
 
 ## Kontakt 📫 
