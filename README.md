@@ -51,14 +51,14 @@ Czego nauczyłam się podczas wyzwania?
 
 <ul>
 <li> [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.</li>
-- [Asana](https://asana.com/pl) - 
-- [Trello](https://trello.com/pl) - 
-- [Oracle Sql Developer](https://www.oracle.com/database/sqldeveloper/) - 
-- [Xampp](https://www.apachefriends.org/pl/index.html) - 
-- [Postman](https://www.postman.com/) - narzędzie służące do testowania i dokumentowania REST API. 
-- [Slack](https://slack.com/solutions/engineering) - rozbudowany komunikator internetowy wykorzystywany do komunikacji z zespołem.
-- [PicPick](https://picpick.app/pl/) - narzędzie do przechwytywania ekranu z wbudowanym edytorem obrazów.
-- [ShareX 15.0](https://getsharex.com/) - aplikacja mobilna do nagrywania ekranu.
+<li>[Asana](https://asana.com/pl) - 
+<li> [Trello](https://trello.com/pl) - 
+<li> [Oracle Sql Developer](https://www.oracle.com/database/sqldeveloper/) - 
+<li> [Xampp](https://www.apachefriends.org/pl/index.html) - 
+<li> [Postman](https://www.postman.com/) - narzędzie służące do testowania i dokumentowania REST API. 
+<li> [Slack](https://slack.com/solutions/engineering) - rozbudowany komunikator internetowy wykorzystywany do komunikacji z zespołem.
+<li> [PicPick](https://picpick.app/pl/) - narzędzie do przechwytywania ekranu z wbudowanym edytorem obrazów.
+<li> [ShareX 15.0](https://getsharex.com/) - aplikacja mobilna do nagrywania ekranu.
 </ul>
 
 ## Kursy warsztaty webinary 🎓
