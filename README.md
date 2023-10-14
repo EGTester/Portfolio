@@ -10,6 +10,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 ##  Spis treści
 
 * [Projekt_DareIT](#projekt)
+* <a href='./contact.html'>Kontakt</a>
 * [Technologie](#technologie)
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
