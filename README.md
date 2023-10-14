@@ -24,7 +24,9 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 
 ### Projekty 📑
-1. DareIT 💎 
+
+1. *DareIT* 💎
+   
 <details>
 <summary> 🖱️ Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
 <b> <br>Czym jest wyzwanie Dare IT Challenges?</b> 
