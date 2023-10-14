@@ -15,7 +15,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 ##  Spis treści 📌
 
-* [Projekt DareIT](#projekt-dareit)
+* [Projekt DareIT](#projekt-dareit-)
 * [Technologie](#technologie)
 * [More](#more)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
