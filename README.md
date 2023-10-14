@@ -42,14 +42,22 @@ Czego nauczyłam się podczas wyzwania?
 
 
 ### Technologie
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+## Kursy warsztaty webinary 🎓
 <ul>
 <li>1.xyz </li>
 <li>2.</li>
 <li>3.</li>
 </ul>
-
-
-## Kursy warsztaty webinary 🎓
 
 
 ## More
