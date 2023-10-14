@@ -17,9 +17,9 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 ##  Spis treści 📌
 
 * [Projekty](#projekty-)
-* [Technologie](#technologie-)
+* [Technologie](#technologie)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
-* [Kompetencje miękkie](#kompetencje-miekkie-)
+* [Kompetencje miękkie](#kompetencje-miekkie)
 * [Kontakt](#kontakt-)
 
 
