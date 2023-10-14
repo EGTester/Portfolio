@@ -56,20 +56,10 @@ Czego nauczyłam się podczas wyzwania?
 
 ## Kursy warsztaty webinary 🎓
 
-<ul>
-<li>1.DreIT Challenges </li>
-<li>2.</li>
-<li>3.</li>
-</ul>
-
-
-## More
-
-<ol>
-<li>Czerwony</li>
-<li>Zielony</li>
-<li>Niebieski</li>
-</ol>
+1. [DareIT Challenges](https://www.dareit.io/challenges/qa-manual-testing)
+2. Indywidualny kurs testowania manulanego 
+3. [Grupowe warsztaty z prowadzącym w roli klienta](https://szkoleniedlaqa.pl/)
+5. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
 
 ## Kontakt 📫
 ```ewa_gwozdz@interia.eu```
