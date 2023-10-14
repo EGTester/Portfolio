@@ -51,7 +51,7 @@ Czego nauczyłam się podczas wyzwania?
 - [Asana](https://asana.com/pl) - narzędzie do zarządzania projektami. 
 - [Trello](https://trello.com/pl) - aplikacja internetowa służąca do zarządzania tablicami Kanban.
 - [MySQL](https://www.oracle.com/database/sqldeveloper/) - system zarządzania relacyjnymi bazami danych oparty na strukturalnym języku zapytań SQL.
-- [Xampp](https://www.apachefriends.org/pl/index.html) - wieloplatformowy, zintegrowany pakiet serwera www.
+- [Xampp](https://www.apachefriends.org/pl/index.html) - wieloplatformowy, zintegrowany pakiet serwera 'www'.
 - [Postman](https://www.postman.com/) - narzędzie służące do testowania i dokumentowania REST API.
 - [Slack](https://slack.com/solutions/engineering) - rozbudowany komunikator internetowy wykorzystywany do komunikacji z zespołem.
 - [PicPick](https://picpick.app/pl/) - narzędzie do przechwytywania ekranu z wbudowanym edytorem obrazów.
