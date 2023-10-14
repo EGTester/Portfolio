@@ -17,9 +17,6 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 * [Projekt DareIT](#projekt-dareit)
 * [Technologie](#technologie)
-* [Setup](#setup)
-* [More detailed information about modules](#more-detailed-information-about-modules)
-* [Application view](#application-view)
 * [More](#more)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
 * [Kontakt](#kontakt-)
@@ -51,19 +48,6 @@ Czego nauczyłam się podczas wyzwania?
 </ul>
 
 
-```commandline
-Komendy w tym znaczniku zostaną podświetlone i sformatowane
-```
-
-
-## Setup
-Uzyskaj bezpłatny klucz API na stronie https://example.com <br/>
-Sklonuj repozytorium
-```git clone https://github.com/your_username_/Project-Name.git```
-<br>Zainstaluj NPM packages ```npm install```<br/>
-Wprowadź swój interfejs API w config.js ```const API_KEY = 'Wprowadź swoje API';```
-
-## More detailed information about modules
 
 ## Kursy warsztaty webinary 🎓
 
