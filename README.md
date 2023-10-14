@@ -25,7 +25,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 ### Projekty 📑
 
-1. *[DareIT](https://drive.google.com/drive/folders/1BkzQya08W05i_sgWLteUv_aPaJQdK-Up?usp=drive_link)* 💎
+1. [*DareIT*](https://drive.google.com/drive/folders/1BkzQya08W05i_sgWLteUv_aPaJQdK-Up?usp=drive_link) 💎
 
 <details>
 <summary> 🖱️ Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
@@ -42,7 +42,7 @@ Czego nauczyłam się podczas wyzwania?
 <br>✔️ SQL 
 </details>
 
-🛠
+2. [*Mamo Pracuj w IT*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)🛠
 
 ### Technologie ⚙️
 
