@@ -66,8 +66,7 @@ Czego nauczyłam się podczas wyzwania?
 5. [Mamo Pracuj w IT](https://mamopracuj.pl/mamo-pracuj-w-it/)
 
 
-## Kompetencje miękkie ✨
- 
+## Kompetencje miękkie✨
 🔎 Dokładność, zorientowanie na szczegóły 
 <br> 🤝 Komunikatywność, umiejętność pracy w zespole
 <br> ✅ Dobra organizacja pracy
