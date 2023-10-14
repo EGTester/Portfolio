@@ -28,7 +28,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 1. [*DareIT*](https://drive.google.com/drive/folders/1BkzQya08W05i_sgWLteUv_aPaJQdK-Up?usp=drive_link) 💎
 
 <details>
-<summary> 🖱️ Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
+<summary>🖱️ Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
 <b> <br>Czym jest wyzwanie Dare IT Challenges?</b> 
   
 <br> To 7-tygodniowe wyzwanie zorganizowane przez DareIT, którego rezultatem jest kompletny projekt z zakresu testowania manualnego. Zadania były wykonywane w cotygodniowych sprintach. Celem projektu było zgłębienie tajników testowania manualnego oraz stworzenie własnego portfolio. 
