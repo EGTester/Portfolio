@@ -48,6 +48,7 @@ Clone the repo
 Install NPM packages ```npm install```<br/>
 Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 
+## More detailed information about modules
 
 ## Kursy warsztaty webinary 🎓
 
