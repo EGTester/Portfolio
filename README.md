@@ -10,7 +10,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 ##  Spis treści
 
 * [Projekt_DareIT](#projekt)
-* <a href='./contact.html'>Kontakt</a>
+* [Kontakt](#kontakt)
 * [Technologie](#technologie)
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
@@ -48,8 +48,5 @@ Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
 
 
 
-<a href='./contact.html'>Kontakt</a>
 
-
-
-
+## Kontakt
