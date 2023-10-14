@@ -16,7 +16,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 ##  Spis treści 📌
 
 * [Projekt DareIT](#projekt-dareit-)
-* [Technologie](#technologie)
+* [Technologie](#technologie-)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
 * [Kompetencje miękkie](#kompetencje-miekkie-)
 * [Kontakt](#kontakt-)
@@ -41,7 +41,7 @@ Czego nauczyłam się podczas wyzwania?
 
 
 
-### Technologie
+### Technologie 💡
 
 - Jira
 - Asana
@@ -61,7 +61,7 @@ Czego nauczyłam się podczas wyzwania?
 3. [Grupowe warsztaty z prowadzącym w roli klienta](https://szkoleniedlaqa.pl/)
 4. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
 
-## Kompetencje miękkie 💡
+## Kompetencje miękkie ✨
 ss
 
 ## Kontakt 📫
