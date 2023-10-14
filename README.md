@@ -46,7 +46,7 @@ Czego nauczyłam się podczas wyzwania?
 
 
 ## Technologie ⚙️
-
+ 
 - [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
 - [Asana](https://asana.com/pl) - 
 - [Trello](https://trello.com/pl) - 
@@ -68,7 +68,7 @@ Czego nauczyłam się podczas wyzwania?
 
 
 ## Kompetencje miękkie ✨
-
+ 
 🔎 Dokładność, zorientowanie na szczegóły 
 <br> 🤝 Komunikatywność, umiejętność pracy w zespole
 <br> ✅ Dobra organizacja pracy
