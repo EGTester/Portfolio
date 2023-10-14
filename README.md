@@ -46,15 +46,15 @@ Czego nauczyłam się podczas wyzwania?
 
 ### Technologie ⚙️
 
-- [Jira] - wykorzystywana do tworzenia raportu błędów.
-- [Asana] - 
-- [Trello] - 
-- [Oracle Sql Developer] - 
-- [Xampp] - 
+- [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
+- [Asana](https://asana.com/pl) - 
+- [Trello](https://trello.com/pl) - 
+- [Oracle Sql Developer](https://www.oracle.com/database/sqldeveloper/) - 
+- [Xampp](https://www.apachefriends.org/pl/index.html) - 
 - [Postman](https://www.postman.com/) - narzędzie służące do testowania i dokumentowania REST API. 
 - [Slack](https://slack.com/solutions/engineering) - rozbudowany komunikator internetowy wykorzystywany do komunikacji z zespołem.
-- [PicPick] - narzędzie do przechwytywania ekranu z wbudowanym edytorem obrazów.
-- [ShareX 15.0] - aplikacja mobilna do nagrywania ekranu.
+- [PicPick](https://picpick.app/pl/) - narzędzie do przechwytywania ekranu z wbudowanym edytorem obrazów.
+- [ShareX 15.0](https://getsharex.com/) - aplikacja mobilna do nagrywania ekranu.
 
 
 ## Kursy warsztaty webinary 🎓
