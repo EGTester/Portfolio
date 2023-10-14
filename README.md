@@ -9,7 +9,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 ##  Spis treści
 
-* [Informacje ogólne](#informacje-ogolne)
+* [Projekt_DareIT](#projekt)
 * [Technologie](#technologie)
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
@@ -17,7 +17,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 
 
-### Informacje ogólne
+### Projekt
 <details>
 <summary>Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
 <b>Lorem ipsum</b>. Projekt..... ipsumLorem ipsumLorem ipsumLorem ipsumLorem
@@ -25,10 +25,31 @@ ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
 </details>
 
 
-
 ### Technologie
 <ul>
-<li>1.</li>
+<li>1.xyz </li>
 <li>2.</li>
 <li>3.</li>
 </ul>
+
+
+```commandline
+Komendy w tym znaczniku zostaną podświetlone i sformatowane
+```
+
+
+## Setup
+Get a free API Key at https://example.com <br/>
+Clone the repo
+```git clone https://github.com/your_username_/Project-Name.git```
+Install NPM packages ```npm install```<br/>
+Enter your API in config.js ```const API_KEY = 'ENTER YOUR API';```
+
+
+
+<a href='./contact.html'>Kontakt</a>
+
+
+
+
+https://camo.githubusercontent.com/a98ec88042f69d36f3900668309e445a6df51dcf20e1ecac2b33a81da775af38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966
