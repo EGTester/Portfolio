@@ -125,7 +125,7 @@ Czego nauczyłam się podczas wyzwania?
   
        
 3. Newslettery
-    - Adam Gola
+    - [Adam Gola](https://szkoleniedlaqa.pl/)
 
 
 
