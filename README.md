@@ -46,6 +46,12 @@ Czego nauczyłam się podczas wyzwania?
 
 2. [*Mamo Pracuj w IT*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)🛠
 
+<details>
+<summary>🖱️ Kliknij i dowiedz się więcej na temat projektu <b>Mamo Pracuj w IT<b/>. </b> </summary>
+<b> <br>Cel projektu ❔</b> </b> 
+
+<br>🎯Wykrycie najważniejszych defektów sklepu internetowego [skleptest.pl](http://skleptest.pl/)</details>
+
 
  ## Technologie ⚙
 
