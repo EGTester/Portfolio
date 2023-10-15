@@ -35,7 +35,7 @@
   
 <br> To 7-tygodniowe wyzwanie organizowane przez DareIT, którego rezultatem jest kompletny projekt z zakresu testowania manualnego. Zadania były wykonywane w cotygodniowych sprintach. Celem projektu było zgłębienie tajników testowania manualnego oraz stworzenie własnego portfolio. 
 
-👇Lista zadań wykonywanych podczas wyzwania:
+👇Zadania wykonywane podczas wyzwania:
 ▶️ [Task 1](https://tiny.pl/cf869)
 ▶️ [Task 2](https://tiny.pl/cf8bg)
 ▶️ [Task 3](https://tiny.pl/c5pzb)
