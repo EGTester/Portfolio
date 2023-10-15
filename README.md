@@ -20,7 +20,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Technologie](#technologie-)
 * [Kursy, warsztaty, webinary](#kursy-warsztaty-webinary-)
 * [Kompetencje](#kompetencje-)
-* [Blogi,social media](#blogi-social-media-newslettery-)
+* [Blogi, social media, newslettery](#blogi-social-media-newslettery-)
 * [Kontakt](#kontakt-)
 
 
