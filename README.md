@@ -18,7 +18,7 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 
 * [Projekty](#projekty-)
 * [Technologie](#technologie-)
-* [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
+* [Kursy, warsztaty, webinary](#kursy-warsztaty-webinary-)
 * [Kompetencje](#kompetencje-)
 * [Blogi,social media](#blogi-social-media-newslettery-)
 * [Kontakt](#kontakt-)
@@ -60,7 +60,7 @@ Czego nauczyłam się podczas wyzwania?
 - [ShareX 15.0](https://getsharex.com/) - aplikacja mobilna do nagrywania ekranu. 
 
 
-## Kursy warsztaty webinary 🎓
+## Kursy, warsztaty, webinary 🎓
 
 1. Indywidualny kurs testowania manulanego
 2. [DareIT Challenges](https://www.dareit.io/challenges/qa-manual-testing)
