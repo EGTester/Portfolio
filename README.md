@@ -20,7 +20,9 @@ Jestem młodszą specjalistką do spraw marketingu, która zdecydowała, że cza
 * [Technologie](#technologie-)
 * [Kursy warsztaty webinary](#kursy-warsztaty-webinary-)
 * [Kompetencje](#kompetencje-)
+* [Blogi,social media](#blogi-social-media-newslettery-)
 * [Kontakt](#kontakt-)
+
 
 
 ## Projekty 📑
@@ -75,8 +77,33 @@ Czego nauczyłam się podczas wyzwania?
 <br> 📈 Chęć rozwoju, determinacja
 
 
+## Blogi, social media, newslettery 🌐
+
+1. Blogi
+      - [testerzy.pl](https://testerzy.pl/)
+      - [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+      - [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
+      - [qualityisland.pl](https://qualityisland.pl/blog/)
+
+
+2. Social media
+   - IG
+     - [@mentor_testowania_opr](https://www.instagram.com/mentor_testowania_opr/)
+     - [@przepis_na_it](https://www.instagram.com/przepis_na_it/)
+     - [@testerka_oprogramowania](https://www.instagram.com/testerka_oprogramowania/) 
+   - Grupy na Fb
+     - Dare IT Community
+     - Czy IT jest dla mnie?
+  
+       
+3. Newslettery
+    - Adam Gola
+
+
+
 ## Kontakt 📫
 ```ewa_gwozdz@interia.eu```
 
 ![typingcat](https://github.com/TesterkaEG/Portfolio/assets/144365299/8845473e-180a-4948-99ac-a5d3d31208e3)
+
 
