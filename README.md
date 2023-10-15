@@ -62,6 +62,19 @@ Czego nauczyłam się podczas wyzwania?
 <br>🎯Wykrycie najważniejszych defektów sklepu internetowego [skleptest.pl](http://skleptest.pl/)</details>
 
 
+
+2. [*Inne*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)
+
+<details>
+<summary>🖱️ Kliknij i dowiedz się więcej na temat zgłoszonych defektów.<b/>. </b> </summary>
+<b> <br> www</b> </b> 
+
+<br> - [Norsan](https://tiny.pl/cjpct)
+<br> - [Alab](https://tiny.pl/cjpdj)
+<br> - [Felix](https://tiny.pl/cjpdp)
+</details>
+
+
  ## Technologie ⚙
 
 - [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
