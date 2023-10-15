@@ -63,7 +63,7 @@ Czego nauczyłam się podczas wyzwania?
 
 
 
-3. [*Inne*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)📁
+3. [*Inne*](https://tiny.pl/cjpfd)📁
 
 <details>
 <summary>🖱️ Kliknij i dowiedz się więcej na temat zgłoszonych defektów.<b/>. </b> </summary>
