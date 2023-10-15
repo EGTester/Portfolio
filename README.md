@@ -63,11 +63,11 @@ Czego nauczyłam się podczas wyzwania?
 
 
 
-2. [*Inne*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)
+3. [*Inne*](https://drive.google.com/drive/folders/1Z95ucarzBCjfXUffgd80F15rE7yOvfjV?usp=drive_link)📁
 
 <details>
 <summary>🖱️ Kliknij i dowiedz się więcej na temat zgłoszonych defektów.<b/>. </b> </summary>
-<b> <br> www</b> </b> 
+<b> <br>🌐www</b> </b> 
 
 <br> - [Norsan](https://tiny.pl/cjpct)
 <br> - [Alab](https://tiny.pl/cjpdj)
