@@ -47,7 +47,7 @@
 Czego nauczyłam się podczas wyzwania?
 <br>✔️ Testowania aplikacji webowych i mobilnych 
 <br>✔️ Testowania eksploracyjnego
-<br>✔️ Redagowania przypadków testowych
+<br>✔️ Redagowania przypadków testowych (m.in. z wykorzystaniem narzędzia TestLink)
 <br>✔️ Raportowania błędów z użyciem [Jiry](https://tiny.pl/c1f8n)
 <br>✔️ Tworzenia raportów z testów 
 <br>✔️ SQL 
@@ -78,6 +78,7 @@ Czego nauczyłam się podczas wyzwania?
  ## Technologie ⚙
 
 - [Jira](https://www.atlassian.com/software/jira) - wykorzystywana do tworzenia raportu błędów.
+- [TestLink 1.9.20 [DEV]](https://test-link.pl/) - narzędzie do zarządzania testami. 
 - [Asana](https://asana.com/pl) - narzędzie do zarządzania projektami. 
 - [Trello](https://trello.com/pl) - aplikacja internetowa służąca do zarządzania tablicami Kanban.
 - [MySQL](https://www.oracle.com/database/sqldeveloper/) - system zarządzania relacyjnymi bazami danych oparty na strukturalnym języku zapytań SQL.
