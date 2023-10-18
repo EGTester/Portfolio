@@ -66,7 +66,7 @@ Czego nauczyłam się podczas wyzwania?
 3. [*Inne*](https://tiny.pl/cjpfd)📁
 
 <details>
-<summary>🖱️ Kliknij i dowiedz się więcej na temat zgłoszonych defektów.<b/>. </b> </summary>
+<summary>🖱️ Kliknij i sprawdź zgłoszone defekty.<b/>. </b> </summary>
 <b> <br>🌐www</b> </b> 
 
 <br> - [Norsan](https://tiny.pl/cjpct)
