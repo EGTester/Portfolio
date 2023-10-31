@@ -73,6 +73,7 @@ Czego nauczyłam się podczas wyzwania?
 <br> - [Alab](https://tiny.pl/cllmz)
 <br> - [Felix](https://tiny.pl/cllgq)
 <br> - [Sushi](https://tiny.pl/cllgp)
+<br> - [SafeSco](https://tiny.pl/cllrz)
 </details>
 
 
