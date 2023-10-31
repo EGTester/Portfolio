@@ -70,8 +70,8 @@ Czego nauczyłam się podczas wyzwania?
 <b> <br>🌐www</b> </b> 
 
 <br> - [Norsan](https://tiny.pl/cjpct)
-<br> - [Alab](https://tiny.pl/cjpdj)
-<br> - [Felix](https://tiny.pl/cjpdp)
+<br> - [Alab](https://tiny.pl/cllmz)
+<br> - [Felix](https://tiny.pl/cllgq)
 </details>
 
 
