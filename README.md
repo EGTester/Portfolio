@@ -69,9 +69,10 @@ Czego nauczyłam się podczas wyzwania?
 <summary>🖱️ Kliknij i sprawdź zgłoszone defekty<b/>. </b> </summary>
 <b> <br>🌐www</b> </b> 
 
-<br> - [Norsan](https://tiny.pl/cjpct)
+<br> - [Norsan](https://tiny.pl/cllgj)
 <br> - [Alab](https://tiny.pl/cllmz)
 <br> - [Felix](https://tiny.pl/cllgq)
+<br> - [Sushi](https://tiny.pl/cllgp)
 </details>
 
 
