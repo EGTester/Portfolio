@@ -27,7 +27,7 @@
 
 ## Projekty 📑
 
-1. [*DareIT*](https://drive.google.com/drive/folders/1BkzQya08W05i_sgWLteUv_aPaJQdK-Up?usp=drive_link) 💎
+1. [*Dare IT*](https://drive.google.com/drive/folders/1BkzQya08W05i_sgWLteUv_aPaJQdK-Up?usp=drive_link) 💎
 
 <details>
 <summary>🖱️ Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
