@@ -33,7 +33,7 @@
 <summary>🖱️ Kliknij tutaj, aby zobaczyć informacje ogólne na temat projektu. </b> </summary>
 <b> <br>Czym jest wyzwanie Dare IT Challenges ❔</b> 
   
-<br> To 7-tygodniowe wyzwanie organizowane przez DareIT, którego rezultatem jest kompletny projekt z zakresu testowania manualnego. Zadania były wykonywane w cotygodniowych sprintach. Celem projektu było zgłębienie tajników testowania manualnego oraz stworzenie własnego portfolio. 
+<br> To 7-tygodniowe wyzwanie organizowane przez Dare IT, którego rezultatem jest kompletny projekt z zakresu testowania manualnego. Zadania były wykonywane w cotygodniowych sprintach. Celem projektu było zgłębienie tajników testowania manualnego oraz stworzenie własnego portfolio. 
 
 👇Zadania wykonywane podczas wyzwania:
 ▶️ [Task 1](https://tiny.pl/cf869)
