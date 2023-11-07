@@ -74,6 +74,7 @@ Czego nauczyłam się podczas wyzwania?
 <br> - [Felix](https://tiny.pl/cllgq)
 <br> - [Sushi](https://tiny.pl/cllgp)
 <br> - [SafeSco](https://tiny.pl/cllrz)
+<br> - [Dare IT](https://tiny.pl/c4cxf)
 </details>
 
 
