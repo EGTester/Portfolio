@@ -95,7 +95,7 @@ Czego nauczyłam się podczas wyzwania?
 ## Kursy, warsztaty, webinary 🎓
 
 1. Indywidualny kurs testowania manulanego
-2. [DareIT Challenges](https://www.dareit.io/challenges/qa-manual-testing)
+2. [Dare IT Challenges](https://www.dareit.io/challenges/qa-manual-testing)
 3. [Grupowe warsztaty z prowadzącym w roli klienta](https://szkoleniedlaqa.pl/)
 4. [Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl/kursy)
 5. [Mamo Pracuj w IT](https://mamopracuj.pl/mamo-pracuj-w-it/)
