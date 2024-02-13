@@ -24,7 +24,6 @@
 * [Kontakt](#kontakt-)
 
 
-
 ## Projekty 📑
 
 1. [*Dare IT*](https://drive.google.com/drive/folders/1BkzQya08W05i_sgWLteUv_aPaJQdK-Up?usp=drive_link) 💎
