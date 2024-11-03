@@ -58,7 +58,7 @@ Czego nauczyłam się podczas wyzwania?
 <summary>🖱️ Kliknij i dowiedz się więcej na temat projektu <b>Mamo Pracuj w IT<b/>. </b> </summary>
 <b> <br>Cel projektu ❔</b> </b> 
 
-<br>🎯Wykrycie najważniejszych defektów sklepu internetowego [skleptest.pl](http://skleptest.pl/)</details>
+<br>🎯 Wykrycie najważniejszych defektów sklepu internetowego [skleptest.pl](http://skleptest.pl/)</details>
 
 
 
